@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm WTSADLER
-I'm currently working on Arduino project for my home and learning how to code as it's all new to me.
+I am currently trying to figure out what the hell I'm doing and how the hell to do it.
 
 
 <!--
